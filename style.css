@@ -1,0 +1,51 @@
+#birthday {
+    font-size: 200px;
+}
+#other {
+    display: none;
+}
+#img1{
+    height: 570px;
+    width: 470px;
+}
+#img2{
+    height: 570px;
+    width: 470px;
+}
+#img3{
+    height: 570px;
+    width: 70px;
+}
+#img4{
+    height: 570px;
+    width: 570px;
+}
+body{
+    background-color: pink;
+}
+#special_slider{
+    display: none;
+}
+#wish{
+    height: 450px;
+    width: 450px;
+    display: none;
+}
+#wish1{
+    height: 450px;
+    width: 450px;
+    display: none;
+}
+#wish2{
+    height: 450px;
+    width: 450px;
+    display: none;
+}
+#wish3{
+    height: 450px;
+    width: 450px;
+    display: none;
+}
+#musical{
+    display: none;
+}
